@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
 // $config['base_url'] = 'https://webapp-dot-my-playground-230006.appspot.com/';
-$config['base_url'] = 'http://34.71.136.216/';
+$config['base_url'] = 'http://34.98.81.218/';
 
 /*
 |--------------------------------------------------------------------------
